@@ -1,3 +1,4 @@
 # Logic-Building-Assignment
 
-This Repository is Created for uploading the assignments which i solve for the logic building purpose 
+In ths Particular Repository i will be dealing with end number of problem statements and  will be finding their solutions.
+Also I will be dealing with the compititive programming practice as well.
